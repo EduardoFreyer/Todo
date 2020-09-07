@@ -1,10 +1,10 @@
 # Todo
-A website to practice knowledge
+A website to practice
 
 ## Languages
 HTML, CSS and JavaScript
 
-## Necessary knowledge
+## Necessary
 HTML - Basic
 CSS - Basic
 JavaScript - Basic
